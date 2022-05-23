@@ -198,7 +198,7 @@
   "progress.header.targetUser": "ความคืบหน้าหลักสูตรสำหรับ {username}",
   "progress.link.studio": "View grading in Studio",
   "progress.relatedLinks.datesCard.description": "มุมมองกำหนดการของวันครบกำหนดของหลักสูตรและการมอบหมายที่จะมาถึง.",
-  "progress.relatedLinks.datesCard.link": "วันที่",
+  "progress.relatedLinks.datesCard.link": "วันสำคัญ",
   "progress.relatedLinks.outlineCard.description": "เนื้อหาหลักสูตรของคุณ.",
   "progress.relatedLinks.outlineCard.link": "โครงร่างหลักสูตร",
   "progress.relatedLinks": "ลิ้งค์ที่มีความเกี่ยวข้อง",
