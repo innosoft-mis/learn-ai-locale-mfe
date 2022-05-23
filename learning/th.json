@@ -161,7 +161,7 @@
   "progress.courseGrade.body": "นี่แสดงถึงเกรดถ่วงน้ำหนักของคุณเทียบกับเกรดที่จำเป็นในการผ่านหลักสูตรนี้",
   "progress.courseGrade.gradeBar.altText": "เกรดปัจจุบันของคุณคือ {currentGrade}%. เกรดถ่วงน้ำหนักของ {passingGrade}% จะต้องผ่านหลักสูตรนี้.",
   "progress.courseGrade.footer.generic.passing": "You’re currently passing this course",
-  "progress.courseGrade.footer.nonPassing": "ต้องเกรด {passingGrade}% เพื่อจะผ่านหลักสูตรนี้",
+  "progress.courseGrade.footer.nonPassing": "ต้องมีเกรด {passingGrade}% เพื่อจะผ่านหลักสูตรนี้",
   "progress.courseGrade.footer.passing": "You’re currently passing this course with a grade of {letterGrade} ({minGrade}-{maxGrade}%)",
   "progress.courseGrade.preview.headerLocked": "locked feature",
   "progress.courseGrade.preview.headerLimited": "limited feature",
