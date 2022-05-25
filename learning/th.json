@@ -425,7 +425,7 @@
   "tours.weeklyGoalsCheckpoint.title": "Set a course goal",
   "tours.newUserModal.title": "{welcome} {siteName} course!",
   "learning.effortEstimation.combinedEstimate": "{minutes} + {activities}",
-  "learning.effortEstimation.activities": "{activityCount, plural, one {# activity} other {# activities}}",
+  "learning.effortEstimation.activities": "กิจกรรม",
   "learning.effortEstimation.minutesAbbreviated": "{minuteCount, plural, one {# min} other {# min}}",
   "learning.effortEstimation.minutesFull": "{minuteCount, plural, one {# minute} other {# minutes}}",
   "learning.streakCelebration.congratulations": "Congratulations!",
